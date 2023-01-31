@@ -1,4 +1,4 @@
-<h1>Jan Louie C. <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Software Engineer</a></h1>
+<h1>Jan Louie C. <br/><a href="https://github.com/janlouiecc">Programmer</a>, <a href="https://www.linkedin.com/in/janlouiecc/">Software Engineer</a></h1>
 
 <h2>School Programming Projects</h2>
 
