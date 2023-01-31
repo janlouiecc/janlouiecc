@@ -8,6 +8,7 @@
 </i>
 - <b>Python</b>
   - [Delivery Routing Simulation](https://github.com/janlouiecc/c950-wgups)
+</i>
 - <b>C++</b>
   - [Class Roster Management Console Application](https://github.com/janlouiecc/c867-class_roster)
 
