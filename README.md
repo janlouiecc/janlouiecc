@@ -5,10 +5,10 @@
 - <b>Java</b>
   - [Appointment Scheduling System with MySQL](https://github.com/janlouiecc/c195-software-2)
   - [Inventory Management System](https://github.com/janlouiecc/c482-software-1)
-</i>
+
 - <b>Python</b>
   - [Delivery Routing Simulation](https://github.com/janlouiecc/c950-wgups)
-</i>
+
 - <b>C++</b>
   - [Class Roster Management Console Application](https://github.com/janlouiecc/c867-class_roster)
 
