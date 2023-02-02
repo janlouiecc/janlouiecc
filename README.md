@@ -14,8 +14,8 @@
 
 <h2>JavaScript/React</h2>
 
-- <b>Expenses Tracker (in progress)</b>
-  - [Practicing & Learning React](https://github.com/janlouiecc/expense-tracker-react)
+- <b>To Do App</b>
+  - [Practicing & Learning React](https://github.com/janlouiecc/not-another-to-do-app)
 
 <h2>Frontend Mentor Challenge Solutions</h2>
 
