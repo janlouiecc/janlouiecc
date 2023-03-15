@@ -11,13 +11,3 @@
 
 - <b>C++</b>
   - [Class Roster Management Console Application](https://github.com/janlouiecc/c867-class_roster)
-
-<h2>JavaScript/React</h2>
-
-- <b>To Do App</b>
-  - [Practicing & Learning React](https://github.com/janlouiecc/not-another-to-do-app)
-
-<h2>Frontend Mentor Challenge Solutions</h2>
-
-- <b>Interactive Card Component with Vanilla JavaScript</b>
-  - [Practicing HTML, CSS and JavaScript](https://github.com/janlouiecc/interactive_rating)
